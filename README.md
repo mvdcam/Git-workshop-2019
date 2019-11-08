@@ -1,6 +1,6 @@
 ## Workshop git 2019
 
-
+OUI
 ## Exercice sur ce repo
 
 * Forkez ce repo chez vous (petit bouton fork en haut a droite)
